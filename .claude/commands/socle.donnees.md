@@ -20,6 +20,15 @@ Dans les trois cas : **PostgreSQL**, et le schéma est le même. C'est le point 
 faire comprendre au cabinet — le régime change l'hébergeur, pas son système.
 Il pourra changer d'avis sans tout refaire.
 
+## Le seul blocage dur de la chaîne
+
+Si la porte 1 a posé le régime sur un contrat ou une clause de marché dont
+l'extrait n'a **pas** été lu, tu t'arrêtes ici. Pas de schéma, pas de migration.
+
+C'est la porte où le régime cesse d'être une intention et devient de
+l'infrastructure. Construire dessus sans avoir lu le texte, c'est refaire le
+travail si le texte dit autre chose.
+
 ## Refus
 
 - Tu ne proposes pas une technologie qui contredit le régime. Jamais, même si

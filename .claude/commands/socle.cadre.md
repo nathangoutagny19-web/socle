@@ -29,8 +29,14 @@ suite en dépend.**
 
 **Si la réponse est « un contrat » ou « une clause de marché », réclame l'extrait.**
 Pas un résumé de mémoire : le passage. Tant qu'il n'est pas lu, le régime est
-*déclaré*, pas établi — et un régime déclaré qui s'effondre à la lecture emporte
-les huit portes suivantes. C'est un blocage à part, pas une ligne de « Non tranché ».
+*déclaré*, pas établi.
+
+Ce n'est pas une ligne de « Non tranché » parmi d'autres : c'est une **réserve
+nommée, avec son porteur**, et elle a une portée précise. Les portes 2 et 3 —
+sortir la méthode, trancher les ambiguïtés du métier — n'en dépendent pas et
+continuent. **La porte 4 ne démarre pas sans l'extrait** : c'est là que le régime
+devient de l'infrastructure, et un régime qui s'effondre à la lecture emporte
+tout ce qui a été construit dessus.
 
 Vérifie aussi que la réponse est bien un seul régime. Si une contrainte plus dure
 s'applique à une partie des données — « ça, ça ne sort jamais, même en Europe » —
@@ -79,8 +85,8 @@ se déclare franchie rend tout le dossier suspect :**
 - `Porte 1 franchie sous réserve le <date>. Régime : <1|2|3>. En attente : <n> points, chacun avec son porteur.`
 - `Porte 1 NON franchie le <date>. Le régime lui-même n'est pas établi.`
 
-**Comment choisir entre les trois.** Le régime est le sol : sans lui, rien ne se
-construit, et la porte n'est pas franchie. Tout le reste — une durée que l'avocat
+**Comment choisir entre les trois.** La porte n'est NON franchie que dans un cas :
+aucun régime n'a été choisi. Sans ça, on ne sait même pas quelle question poser. Tout le reste — une durée que l'avocat
 doit confirmer, une clause que l'associé doit retrouver — n'empêche pas d'avancer :
 c'est une réserve. Tu l'écris, tu lui donnes un nom de porteur, et tu continues.
 
