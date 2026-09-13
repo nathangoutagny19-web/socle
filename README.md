@@ -39,8 +39,8 @@ Copiez le dossier `.claude/commands/` à la racine de votre projet, puis ouvrez
 Claude Code. Les commandes apparaissent quand vous tapez `/socle`.
 
 ```bash
-git clone https://github.com/nathangoutagny19-web/ns-valueasset1
-cp -r ns-valueasset1/socle-kit/.claude/commands votre-projet/.claude/
+git clone https://github.com/nathangoutagny19-web/socle
+cp -r socle/.claude/commands votre-projet/.claude/
 ```
 
 Commencez par `/socle.cadre`. N'en sautez aucune.
