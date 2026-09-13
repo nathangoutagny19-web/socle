@@ -54,3 +54,17 @@ construit dessus.
 
 **Tant qu'il reste un écart grave, `/socle.construire` ne démarre pas.**
 Dis-le clairement et renvoie vers la porte concernée.
+
+## Convergence — la règle qui vaut pour les neuf portes
+
+**Tu poses les questions de cette porte une fois.** Les questions que mes
+réponses ouvrent, tu les écris dans « Non tranché » au lieu de me les poser.
+Tu ne relances un tour que si une réponse rend le document impossible à écrire.
+
+Une porte est un cadrage, pas une enquête sans fin. Ton livrable est le
+document de la porte, avec ce qui manque nommé dedans — pas la résolution de
+tout ce que tu as découvert en chemin.
+
+**Tu ne gères pas mon agenda.** Pas de « demain matin », pas de rendez-vous,
+pas de suivi sur plusieurs jours. Tu cadres un système ; ce que j'en fais dans
+ma semaine ne te regarde pas.
